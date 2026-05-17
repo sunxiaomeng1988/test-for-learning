@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 just a test for testBranch。20260516 1438 -->1508-->2212-->2225-->2244-->0517 1528
+=======
+just a test for testBranch。20260516 1438 -->1508-->2212-->2225-->2244
+>>>>>>> cdfb7e2f0f9f2806b4dba75dd9c9180b6ab34a15
